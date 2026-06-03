@@ -1,0 +1,7 @@
+customtkinter
+oct-converter
+Pillow
+numpy
+opencv-python
+matplotlib
+pyinstaller
